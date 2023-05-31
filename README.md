@@ -12,7 +12,7 @@ Set the variables below according to your needs:
 
 - region      -> "us-east-1"
 - bucket_name -> "devops-portfolio-bucket"
-- 
+ 
 ## TF commands
 
 # Plan
