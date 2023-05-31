@@ -1,6 +1,18 @@
 # terraform-aws-s3
-Criacao de bucket S3 com terraform
+Creates S3 bucket
 
+# Instruction:
+
+Set the variables below according to your needs:
+
+- region
+- bucket_name
+
+## Example:
+
+- region      -> "us-east-1"
+- bucket_name -> "devops-portfolio-bucket"
+- 
 ## TF commands
 
 # Plan
